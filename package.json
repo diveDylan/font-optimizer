@@ -1,0 +1,29 @@
+{
+  "name": "font-optimizer",
+  "version": "1.0.0",
+  "description": "指定字体切割",
+  "main": "GruntFile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diveDylan/font-optimizer.git"
+  },
+  "keywords": [
+    "font-optimizer"
+  ],
+  "author": "dylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diveDylan/font-optimizer/issues"
+  },
+  "homepage": "https://github.com/diveDylan/font-optimizer#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-font-optimizer": "^0.2.8"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
